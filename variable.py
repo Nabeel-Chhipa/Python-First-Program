@@ -14,3 +14,16 @@
 
 # nabeel = usama = saad = 27
 # print(usama)
+
+# name = "Muhammad Nabeel"
+
+# one, two, three = "Biryani", "Burger", "Pizza"
+
+# print("Hello \n" * 10)
+
+name, age = "Muhammad Nabeel", 28
+
+# one = "One"
+# two = "Two"
+# combinedVariable = one + two
+
