@@ -39,3 +39,11 @@
 # for x in adj:
 #     for y in fruits:
 #         print(x, y)
+
+# list = ['Nabeel', 'Usama', 'Saad']
+# tupl = (2, 4, 6, 8, 10)
+# for item in tupl:
+#     print(item)
+
+for item in range(1, 16, 5):
+    print(item)

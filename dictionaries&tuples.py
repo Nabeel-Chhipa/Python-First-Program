@@ -25,5 +25,13 @@
 # names = ('Nabeel', 'Usama', 'Saad', 'Zain', 'Zariyab', 'Faraz')
 # print(names)
 
-data = ('Nabeel', 27, 'Male', 'Pakistan', 'Karachi', 'Korangi', 'Male',)
-print(data[1])
+# data = ('Nabeel', 27, 'Male', 'Pakistan', 'Karachi', 'Korangi', 'Male',)
+# print(data[1])
+
+students = {
+    'Nabeel': 27,
+    'Usama': 28
+}
+students['Usama'] = 'Muhammd Usama'
+del students['Usama']
+print(students)
