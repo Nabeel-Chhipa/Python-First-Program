@@ -25,6 +25,11 @@ usama_exp = [200, 500, 700]
 # sum_total = sum(8)
 # print('total of sum: ', sum_total)
 
-def emp_name(*names):
-    print(names)
-emp_name('Nabeel', 'Usama', 'Saad', 'Zain', 'Zariyab', 'Faraz')
+# def emp_name(*names):
+#     print(names)
+# emp_name('Nabeel', 'Usama', 'Saad', 'Zain', 'Zariyab', 'Faraz')
+
+def sum(num1, num2):
+    total = num1 + num2
+    return total
+print(sum(2, 3))
